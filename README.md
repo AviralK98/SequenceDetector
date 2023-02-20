@@ -1,5 +1,5 @@
-# ELEC5566M Written Assignment Repository - State Machine Based Digital Lock 
------------------------------------------------------------------------------------------
+#Sequence Detector:- State Machine Based Digital Lock 
+
 
 
 # 										STATE MACHINE
