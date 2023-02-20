@@ -1,4 +1,4 @@
-#Sequence Detector:- State Machine Based Digital Lock 
+# Sequence Detector:- State Machine Based Digital Lock 
 
 
 
